@@ -1,0 +1,12 @@
+C:\Users\Studio\source\repos\YadVashemSystem\YadVashemSystemContext\bin\Debug\net8.0\YadVashemSystemContext.deps.json
+C:\Users\Studio\source\repos\YadVashemSystem\YadVashemSystemContext\bin\Debug\net8.0\YadVashemSystemContext.dll
+C:\Users\Studio\source\repos\YadVashemSystem\YadVashemSystemContext\bin\Debug\net8.0\YadVashemSystemContext.pdb
+C:\Users\Studio\source\repos\YadVashemSystem\YadVashemSystemContext\obj\Debug\net8.0\YadVashemSystemContext.csproj.AssemblyReference.cache
+C:\Users\Studio\source\repos\YadVashemSystem\YadVashemSystemContext\obj\Debug\net8.0\YadVashemSystemContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Studio\source\repos\YadVashemSystem\YadVashemSystemContext\obj\Debug\net8.0\YadVashemSystemContext.AssemblyInfoInputs.cache
+C:\Users\Studio\source\repos\YadVashemSystem\YadVashemSystemContext\obj\Debug\net8.0\YadVashemSystemContext.AssemblyInfo.cs
+C:\Users\Studio\source\repos\YadVashemSystem\YadVashemSystemContext\obj\Debug\net8.0\YadVashemSystemContext.csproj.CoreCompileInputs.cache
+C:\Users\Studio\source\repos\YadVashemSystem\YadVashemSystemContext\obj\Debug\net8.0\YadVashemSystemContext.dll
+C:\Users\Studio\source\repos\YadVashemSystem\YadVashemSystemContext\obj\Debug\net8.0\refint\YadVashemSystemContext.dll
+C:\Users\Studio\source\repos\YadVashemSystem\YadVashemSystemContext\obj\Debug\net8.0\YadVashemSystemContext.pdb
+C:\Users\Studio\source\repos\YadVashemSystem\YadVashemSystemContext\obj\Debug\net8.0\ref\YadVashemSystemContext.dll

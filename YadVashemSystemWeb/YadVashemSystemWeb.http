@@ -1,0 +1,6 @@
+@YadVashemSystemWeb_HostAddress = http://localhost:5217
+
+GET {{YadVashemSystemWeb_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,15 @@
+C:\Users\Studio\source\repos\YadVashemSystem\YadVashemSystemReposirories\bin\Debug\net8.0\YadVashemSystemReposirories.deps.json
+C:\Users\Studio\source\repos\YadVashemSystem\YadVashemSystemReposirories\bin\Debug\net8.0\YadVashemSystemReposirories.dll
+C:\Users\Studio\source\repos\YadVashemSystem\YadVashemSystemReposirories\bin\Debug\net8.0\YadVashemSystemReposirories.pdb
+C:\Users\Studio\source\repos\YadVashemSystem\YadVashemSystemReposirories\bin\Debug\net8.0\YadVashemSystemContext.dll
+C:\Users\Studio\source\repos\YadVashemSystem\YadVashemSystemReposirories\bin\Debug\net8.0\YadVashemSystemContext.pdb
+C:\Users\Studio\source\repos\YadVashemSystem\YadVashemSystemReposirories\obj\Debug\net8.0\YadVashemSystemReposirories.csproj.AssemblyReference.cache
+C:\Users\Studio\source\repos\YadVashemSystem\YadVashemSystemReposirories\obj\Debug\net8.0\YadVashemSystemReposirories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Studio\source\repos\YadVashemSystem\YadVashemSystemReposirories\obj\Debug\net8.0\YadVashemSystemReposirories.AssemblyInfoInputs.cache
+C:\Users\Studio\source\repos\YadVashemSystem\YadVashemSystemReposirories\obj\Debug\net8.0\YadVashemSystemReposirories.AssemblyInfo.cs
+C:\Users\Studio\source\repos\YadVashemSystem\YadVashemSystemReposirories\obj\Debug\net8.0\YadVashemSystemReposirories.csproj.CoreCompileInputs.cache
+C:\Users\Studio\source\repos\YadVashemSystem\YadVashemSystemReposirories\obj\Debug\net8.0\YadVashemSystemReposirories.csproj.CopyComplete
+C:\Users\Studio\source\repos\YadVashemSystem\YadVashemSystemReposirories\obj\Debug\net8.0\YadVashemSystemReposirories.dll
+C:\Users\Studio\source\repos\YadVashemSystem\YadVashemSystemReposirories\obj\Debug\net8.0\refint\YadVashemSystemReposirories.dll
+C:\Users\Studio\source\repos\YadVashemSystem\YadVashemSystemReposirories\obj\Debug\net8.0\YadVashemSystemReposirories.pdb
+C:\Users\Studio\source\repos\YadVashemSystem\YadVashemSystemReposirories\obj\Debug\net8.0\ref\YadVashemSystemReposirories.dll
